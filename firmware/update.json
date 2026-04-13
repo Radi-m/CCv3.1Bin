@@ -1,18 +1,18 @@
 {
-  "version": "3.1.1",
-  "blob_version": 36,
+  "version": "3.1.0",
+  "blob_version": 37,
   "fw": {
-    "enc_size": 1302912,
-    "sha256": "f420ca08e88fcc3febd65bd9d493afcbbed783958cbd62daf121d1301dfbde7f",
-    "iv": "1p5Mn8vt5WOmoZhz",
-    "tag": "JSFO+a8HFr2GcORdem64mw=="
+    "enc_size": 1313584,
+    "sha256": "cc87daf62d7340b6e17e7ec2dfc24c37cafac16015e392788542e3bf6df2eb3b",
+    "iv": "TZry+cuCca8kXw4A",
+    "tag": "5/0PxIJazEOe1JQgSqY3gg=="
   },
   "blob": [
     {
       "enc_size": 6221824,
-      "sha256": "f5ca153cc922b39a4b1c9e0b4ef3f07d5ec1234dab9fff91b353927e6d941f3e",
-      "iv": "Z2Eeja3WelBp4DCZ",
-      "tag": "MGXKlekaRO+wPYIyWlBOOQ=="
+      "sha256": "1eb753d558ff89140ea7070f02b3fb7bee7475c63213fadc5112d88c0ca0660e",
+      "iv": "iAgdO8DZRYhBuaZX",
+      "tag": "Kc4OsBUjPyzJhgJFlGYEOQ=="
     }
   ]
 }
