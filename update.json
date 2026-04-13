@@ -1,0 +1,18 @@
+{
+  "version": "3.1.0",
+  "blob_version": 36,
+  "fw": {
+    "enc_size": 1302912,
+    "sha256": "f420ca08e88fcc3febd65bd9d493afcbbed783958cbd62daf121d1301dfbde7f",
+    "iv": "1p5Mn8vt5WOmoZhz",
+    "tag": "JSFO+a8HFr2GcORdem64mw=="
+  },
+  "blob": [
+    {
+      "enc_size": 6221824,
+      "sha256": "f5ca153cc922b39a4b1c9e0b4ef3f07d5ec1234dab9fff91b353927e6d941f3e",
+      "iv": "Z2Eeja3WelBp4DCZ",
+      "tag": "MGXKlekaRO+wPYIyWlBOOQ=="
+    }
+  ]
+}
